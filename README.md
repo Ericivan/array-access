@@ -20,3 +20,5 @@
   }
 
 ```
+
+具体测试代码在[这里](https://github.com/Ericivan/array-access/blob/master/arrayAccess.php)
